@@ -24,6 +24,8 @@ indeed!
 
 <img src="images/jd.png" align="left" width="50%" alt="Juvenile">
 
+<br>
+
 <!--
 The Fonz is a working text editro in 181 bytes and features:
 
