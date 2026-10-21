@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="750" alt="Banner">
+<img src="images/banner.png" width="700" alt="Banner">
 
 <img src="images/fonzie.png" align="left" width="20%" alt="Fonzie">
 
@@ -21,7 +21,7 @@ indeed!
 𝗂𝗇𝖽𝖾𝖾𝖽!
 
 <br>
-<img src="images/jd.png" width="550" alt="Juvenile">
+<img src="images/jd.png" width="500" alt="Juvenile">
 
 <!--
 The Fonz is a working text editro in 181 bytes and features:
