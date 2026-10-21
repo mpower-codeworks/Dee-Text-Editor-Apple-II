@@ -1,4 +1,4 @@
-The Fonz: A Very Small Text Editor for Apple II
+<img src="images/banner.png" width="40%" alt="Banner">
 
 <img src="images/fonzie.png" align="left" width="20%" alt="Fonzie">
 
