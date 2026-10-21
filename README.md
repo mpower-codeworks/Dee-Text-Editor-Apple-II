@@ -22,7 +22,7 @@ indeed!
 
 <br>
 
-<img src="images/jd.png" width="50%" alt="Juvenile">
+<img src="images/jd.png" width="45%" alt="Juvenile">
 
 <br>
 
