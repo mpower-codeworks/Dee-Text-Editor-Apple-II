@@ -23,7 +23,6 @@ indeed!
 <br>
 
 <img src="images/jd.png" width="48%" alt="Juvenile">
-
 <br>
 
 <!--
