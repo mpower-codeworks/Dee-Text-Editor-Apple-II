@@ -21,7 +21,7 @@ indeed!
 𝗂𝗇𝖽𝖾𝖾𝖽!
 
 <br>
-<img src="images/jd.png" width="200" alt="Juvenile">
+<img src="images/jd.png" width="300" alt="Juvenile">
 
 <!--
 The Fonz is a working text editro in 181 bytes and features:
