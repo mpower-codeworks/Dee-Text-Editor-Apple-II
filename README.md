@@ -20,4 +20,6 @@ indeed!
 𝗌𝗉𝖺𝖼𝖾 𝗈𝖿 𝖾𝗑𝖺𝖼𝗍𝗅𝗒 𝗈𝗇𝖾 𝖻𝗒𝗍𝖾. "𝖸𝗈𝗎 𝗍𝖺𝗅𝗄 𝗍𝗈𝗈 𝗆𝗎𝖼𝗁, 𝖱𝖺𝗅𝗉𝗁 𝖬𝖺𝗅𝗉𝗁"
 𝗂𝗇𝖽𝖾𝖾𝖽!
 
-<img src="images/jd.png" align="left" width="40%" alt="Juvenile">
+<br>
+
+<img src="images/jd.png" align="left" width="50%" alt="Juvenile">
