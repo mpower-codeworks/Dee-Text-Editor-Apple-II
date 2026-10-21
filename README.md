@@ -12,7 +12,7 @@ The Fonz knows when enough is enough!
 <!--
 I believe it was Fonzie himself that said "Brevity is the
 Soul of Wit". To that end The Fonz features a usable work
-space of exactly one byte. "You talk too much, Ralpf Malph"
+space of exactly one byte. "You talk too much, 𝖱𝖺𝗅𝗉𝗁 Malph"
 indeed!
 -->
 𝖨 𝖻𝖾𝗅𝗂𝖾𝗏𝖾 𝗂𝗍 𝗐𝖺𝗌 𝖥𝗈𝗇𝗓𝗂𝖾 𝗁𝗂𝗆𝗌𝖾𝗅𝖿 𝗍𝗁𝖺𝗍 𝗌𝖺𝗂𝖽 "𝖡𝗋𝖾𝗏𝗂𝗍𝗒 𝗂𝗌 𝗍𝗁𝖾
