@@ -23,7 +23,7 @@ into so many homes.
 𝚃𝚑𝚘𝚖𝚊𝚜 𝚘𝚗 𝚆𝚑𝚊𝚝'𝚜 𝙷𝚊𝚙𝚙𝚎𝚗𝚒𝚗𝚐!! 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚓𝚘𝚢
 𝚒𝚗𝚝𝚘 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚑𝚘𝚖𝚎𝚜.
 
-<img src="images/features.png" align="left" width="28%" alt="Features">
+<img src="images/features.png" align="left" width="22%" alt="Features">
 
 <!--
 Dee features:
