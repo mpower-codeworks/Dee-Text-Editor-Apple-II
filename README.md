@@ -1,6 +1,6 @@
 <img src="images/banner.png" width="11%" alt="Banner">
 
-<img src="images/deethomas.png" align="left" width="15%" alt="Fonzie">
+<img src="images/deethomas.png" align="left" width="15%" alt="Dee Thomas">
 
 <!--
 Dee is a very small text editor for Apple II. It's total document size is
@@ -23,7 +23,7 @@ into so many homes.
 𝚃𝚑𝚘𝚖𝚊𝚜 𝚘𝚗 𝚆𝚑𝚊𝚝'𝚜 𝙷𝚊𝚙𝚙𝚎𝚗𝚒𝚗𝚐!! 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚓𝚘𝚢
 𝚒𝚗𝚝𝚘 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚑𝚘𝚖𝚎𝚜.
 
-
+<img src="images/features.png" align="left" width="15%" alt="Features">
 
 <!--
 Dee features:
