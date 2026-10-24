@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="11%" alt="Banner">
+<img src="images/banner.png" width="80" alt="Banner">
 
 <img src="images/deethomas.png" align="left" width="15%" alt="Dee Thomas">
 
@@ -25,7 +25,7 @@ into so many homes.
 𝚃𝚑𝚘𝚖𝚊𝚜 𝚘𝚗 𝚆𝚑𝚊𝚝'𝚜 𝙷𝚊𝚙𝚙𝚎𝚗𝚒𝚗𝚐!! 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚓𝚘𝚢
 𝚒𝚗𝚝𝚘 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚑𝚘𝚖𝚎𝚜.
 
-<img src="images/features.png" width="22%" alt="Features">
+<img src="images/features.png" width="160" alt="Features">
 
 <!--
 Dee features:
@@ -73,7 +73,7 @@ D* = loaded file modified
 - 𝙳. = 𝚜𝚊𝚟𝚎𝚍 𝚊𝚜 𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
 - 𝙳* = 𝚕𝚘𝚊𝚍𝚎𝚍 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 
-<img src="images/about.png" width="17%" alt="About">
+<img src="images/about.png" width="100" alt="About">
 
 <!--
 Dee is written in CA65 and is intended to be a
