@@ -1,6 +1,6 @@
 <img src="images/banner.png" width="80" alt="Banner">
 
-<img src="images/deethomas.png" align="left" width="140" alt="Dee Thomas">
+<img src="images/deethomas.png" align="left" width="120" alt="Dee Thomas">
 
 <!--
 Dee is a very small text editor for Apple II. Its total document size is
