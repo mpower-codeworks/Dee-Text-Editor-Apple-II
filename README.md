@@ -1,6 +1,6 @@
-<img src="images/banner.png" width="15%" alt="Banner">
+<img src="images/banner.png" width="11%" alt="Banner">
 
-<img src="images/deethomas.png" align="left" width="20%" alt="Fonzie">
+<img src="images/deethomas.png" align="left" width="15%" alt="Fonzie">
 
 <!--
 Dee is a very small text editor for Apple II. It's total document size is
