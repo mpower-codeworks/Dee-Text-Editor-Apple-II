@@ -72,3 +72,5 @@ D* = loaded file modified
 - 𝚄* = 𝚞𝚗𝚗𝚊𝚖𝚎𝚍 𝚏𝚒𝚕𝚎, 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 - 𝙳. = 𝚜𝚊𝚟𝚎𝚍 𝚊𝚜 𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
 - 𝙳* = 𝚕𝚘𝚊𝚍𝚎𝚍 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
+
+<img src="images/about.png" width="24%" alt="About">
