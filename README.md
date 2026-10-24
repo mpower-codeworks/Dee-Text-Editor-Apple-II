@@ -74,3 +74,31 @@ D* = loaded file modified
 - 𝙳* = 𝚕𝚘𝚊𝚍𝚎𝚍 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 
 <img src="images/about.png" width="17%" alt="About">
+
+<!--
+Dee is written in CA65 and is intended to be a
+size-code demo of a text editor with the point
+being that it has all the "stuff" a text editor
+should have. Minimal implementations to be sure,
+but working nonetheless.
+-->
+
+𝙳𝚎𝚎 𝚒𝚜 𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰𝟼𝟻 𝚊𝚗𝚍 𝚒𝚜 𝚒𝚗𝚝𝚎𝚗𝚍𝚎𝚍 𝚝𝚘 𝚋𝚎 𝚊
+𝚜𝚒𝚣𝚎-𝚌𝚘𝚍𝚎 𝚍𝚎𝚖𝚘 𝚘𝚏 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚙𝚘𝚒𝚗𝚝
+𝚋𝚎𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚝 𝚑𝚊𝚜 𝚊𝚕𝚕 𝚝𝚑𝚎 "𝚜𝚝𝚞𝚏𝚏" 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛
+𝚜𝚑𝚘𝚞𝚕𝚍 𝚑𝚊𝚟𝚎. 𝙼𝚒𝚗𝚒𝚖𝚊𝚕 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚋𝚎 𝚜𝚞𝚛𝚎,
+𝚋𝚞𝚝 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚗𝚘𝚗𝚎𝚝𝚑𝚎𝚕𝚎𝚜𝚜.
+
+<!--
+The source code includes every step from reserving
+the buffer on up. I didn't leave the mistakes in,
+but there were many! I'm sure there are many ways
+to do this sort of thing, and this is what I came
+up with.
+-->
+
+𝚃𝚑𝚎 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚍𝚎 𝚒𝚗𝚌𝚕𝚞𝚍𝚎𝚜 𝚎𝚟𝚎𝚛𝚢 𝚜𝚝𝚎𝚙 𝚏𝚛𝚘𝚖 𝚛𝚎𝚜𝚎𝚛𝚟𝚒𝚗𝚐
+𝚝𝚑𝚎 𝚋𝚞𝚏𝚏𝚎𝚛 𝚘𝚗 𝚞𝚙. 𝙸 𝚍𝚒𝚍𝚗'𝚝 𝚕𝚎𝚊𝚟𝚎 𝚝𝚑𝚎 𝚖𝚒𝚜𝚝𝚊𝚔𝚎𝚜 𝚒𝚗,
+𝚋𝚞𝚝 𝚝𝚑𝚎𝚛𝚎 𝚠𝚎𝚛𝚎 𝚖𝚊𝚗𝚢! 𝙸'𝚖 𝚜𝚞𝚛𝚎 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚖𝚊𝚗𝚢 𝚠𝚊𝚢𝚜
+𝚝𝚘 𝚍𝚘 𝚝𝚑𝚒𝚜 𝚜𝚘𝚛𝚝 𝚘𝚏 𝚝𝚑𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚠𝚑𝚊𝚝 𝙸 𝚌𝚊𝚖𝚎
+𝚞𝚙 𝚠𝚒𝚝𝚑.
