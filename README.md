@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="115" alt="Banner">
+<img src="images/banner.png" width="15%" alt="Banner">
 
 <img src="images/deethomas.png" align="left" width="20%" alt="Fonzie">
 
