@@ -23,8 +23,7 @@ into so many homes.
 𝚃𝚑𝚘𝚖𝚊𝚜 𝚘𝚗 𝚆𝚑𝚊𝚝'𝚜 𝙷𝚊𝚙𝚙𝚎𝚗𝚒𝚗𝚐!! 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚓𝚘𝚢
 𝚒𝚗𝚝𝚘 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚑𝚘𝚖𝚎𝚜.
 
-<img src="images/features.png" align="left" width="22%" alt="Features">
-<br><br>
+<img src="images/features.png" align="left" width="22%" alt="Features"><br><br><br>
 
 <!--
 Dee features:
@@ -49,6 +48,7 @@ U* = unnamed file, modified
 D. = saved as default file name
 D* = loaded file modified
 -->
+
 𝙳𝚎𝚎 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜:
 
 - 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚋𝚞𝚏𝚏𝚎𝚛
