@@ -24,6 +24,7 @@ into so many homes.
 𝚒𝚗𝚝𝚘 𝚜𝚘 𝚖𝚊𝚗𝚢 𝚑𝚘𝚖𝚎𝚜.
 
 <img src="images/features.png" align="left" width="22%" alt="Features">
+<br><br>
 
 <!--
 Dee features:
