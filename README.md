@@ -79,7 +79,7 @@ D* = loaded file modified
 
 ### 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗌𝖺𝗏𝖾/𝗅𝗈𝖺𝖽 𝗂𝗌 "𝖣".
 
-## 𝚂𝚝𝚊𝚝𝚞𝚜 𝙰𝚛𝚎𝚊:
+<img src="images/statusarea.png" width="200" alt="Status Area">
 ```
 B. = blank file, unmodified
 U* = unnamed file, modified
@@ -138,7 +138,7 @@ but it works!
 mpower-codeworks
 -->
 
-<img src="images/even smaller.png" width="200" alt="Even Samller">
+<img src="images/even smaller.png" width="200" alt="Even Smaller">
 
 𝙰𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚛𝚎𝚊𝚕𝚕𝚢 𝚜𝚖𝚊𝚕𝚕 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛𝚜?  𝙳𝚎𝚎
 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟶𝟶𝟼 𝚌𝚘𝚖𝚎𝚜 𝚒𝚗 𝚊𝚝 𝟽𝟻 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 𝚑𝚊𝚜 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚝𝚎𝚡𝚝
