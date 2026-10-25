@@ -38,7 +38,7 @@ Dee features:
 - full build history in stages
 - a very small editable document buffer
 - output to screen
-- prints to slot #1
+- print to slot #1
 - file name B=blank, U=unnamed, D=default file name
 - file status .=saved, *=modified
 - save file
@@ -65,6 +65,7 @@ D* = loaded file modified
 - 𝚏𝚞𝚕𝚕 𝚋𝚞𝚒𝚕𝚍 𝚑𝚒𝚜𝚝𝚘𝚛𝚢 𝚒𝚗 𝚜𝚝𝚊𝚐𝚎𝚜
 - 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚋𝚞𝚏𝚏𝚎𝚛
 - 𝚘𝚞𝚝𝚙𝚞𝚝 𝚝𝚘 𝚜𝚌𝚛𝚎𝚎𝚗
+- 𝚙𝚛𝚒𝚗𝚝 𝚝𝚘 𝚜𝚕𝚘𝚝 #𝟷
 - 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎 𝙱=𝚋𝚕𝚊𝚗𝚔, 𝚄=𝚞𝚗𝚗𝚊𝚖𝚎𝚍, 𝙳=𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
 - 𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 .=𝚜𝚊𝚟𝚎𝚍, *=𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 - 𝚜𝚊𝚟𝚎 𝚏𝚒𝚕𝚎
