@@ -81,10 +81,10 @@ D* = loaded file modified
 
 𝚂𝚝𝚊𝚝𝚞𝚜 𝙰𝚛𝚎𝚊:
 ```
-- 𝙱. = 𝚋𝚕𝚊𝚗𝚔 𝚏𝚒𝚕𝚎, 𝚞𝚗𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
-- 𝚄* = 𝚞𝚗𝚗𝚊𝚖𝚎𝚍 𝚏𝚒𝚕𝚎, 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
-- 𝙳. = 𝚜𝚊𝚟𝚎𝚍 𝚊𝚜 𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
-- 𝙳* = 𝚕𝚘𝚊𝚍𝚎𝚍 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
+B. = blank file, unmodified
+U* = unnamed file, modified
+D. = saved as default file name
+D* = loaded file modified
 ```
 <img src="images/commands.png" width="160" alt="Commands">
 
