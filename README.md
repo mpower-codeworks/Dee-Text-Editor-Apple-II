@@ -79,7 +79,8 @@ D* = loaded file modified
 
 ### 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗌𝖺𝗏𝖾/𝗅𝗈𝖺𝖽 𝗂𝗌 "𝖣".
 
-<img src="images/statusarea.png" width="200" alt="Status Area">
+<img src="images/statusarea.png" width="160" alt="Status Area">
+
 ```
 B. = blank file, unmodified
 U* = unnamed file, modified
