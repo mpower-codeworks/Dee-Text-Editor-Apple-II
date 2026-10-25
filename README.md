@@ -38,6 +38,7 @@ Dee features:
 - full build history in stages
 - a very small editable document buffer
 - output to screen
+- prints to slot #1
 - file name B=blank, U=unnamed, D=default file name
 - file status .=saved, *=modified
 - save file
