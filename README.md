@@ -3,7 +3,7 @@
 <img src="images/deethomas.png" align="left" width="120" alt="Dee Thomas">
 
 <!--
-Dee is a very small text editor for Apple II. Its total document size is
+Dee is a text editor for Apple II in 364 bytes. Its total document size is
 just one character. This is version 1.0 of Dee, a working text editor designed
 around a ridiculously small buffer with some minor size-coding going on
 as well. Smallest possible exe size wasn't really the main goal, but
@@ -14,7 +14,7 @@ talented actress whose portrayal of Dee
 Thomas on What's Happening!! brought joy
 into so many homes.
 -->
-𝙳𝚎𝚎 𝚒𝚜 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸. 𝙸𝚝𝚜 𝚝𝚘𝚝𝚊𝚕 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚜𝚒𝚣𝚎 𝚒𝚜
+𝙳𝚎𝚎 𝚒𝚜 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚒𝚗 𝟹𝟼𝟺 𝚋𝚢𝚝𝚎𝚜. 𝙸𝚝𝚜 𝚝𝚘𝚝𝚊𝚕 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚜𝚒𝚣𝚎 𝚒𝚜
 𝚓𝚞𝚜𝚝 𝚘𝚗𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟷.𝟶 𝚘𝚏 𝙳𝚎𝚎, 𝚊 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚍
 𝚊𝚛𝚘𝚞𝚗𝚍 𝚊 𝚛𝚒𝚍𝚒𝚌𝚞𝚕𝚘𝚞𝚜𝚕𝚢 𝚜𝚖𝚊𝚕𝚕 𝚋𝚞𝚏𝚏𝚎𝚛 𝚠𝚒𝚝𝚑 𝚜𝚘𝚖𝚎 𝚖𝚒𝚗𝚘𝚛 𝚜𝚒𝚣𝚎-𝚌𝚘𝚍𝚒𝚗𝚐 𝚐𝚘𝚒𝚗𝚐 𝚘𝚗
 𝚊𝚜 𝚠𝚎𝚕𝚕. 𝚂𝚖𝚊𝚕𝚕𝚎𝚜𝚝 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎 𝚎𝚡𝚎 𝚜𝚒𝚣𝚎 𝚠𝚊𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚝𝚑𝚎 𝚖𝚊𝚒𝚗 𝚐𝚘𝚊𝚕, 𝚋𝚞𝚝
