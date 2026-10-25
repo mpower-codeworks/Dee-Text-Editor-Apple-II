@@ -121,9 +121,6 @@ version 006 comes in at 75 bytes and has editable text
 and DELETE key works too. No save, load, new, etc...
 but it works!
 
-Yes, I know that this entire project pushes the definistion
-of a text editor a bit... good!
-
 mpower-codeworks
 -->
 
@@ -134,5 +131,4 @@ mpower-codeworks
 𝚊𝚗𝚍 𝙳𝙴𝙻𝙴𝚃𝙴 𝚔𝚎𝚢 𝚠𝚘𝚛𝚔𝚜 𝚝𝚘𝚘. 𝙽𝚘 𝚜𝚊𝚟𝚎, 𝚕𝚘𝚊𝚍, 𝚗𝚎𝚠, 𝚎𝚝𝚌...
 𝚋𝚞𝚝 𝚒𝚝 𝚠𝚘𝚛𝚔𝚜!
 
-𝚈𝚎𝚜, 𝙸 𝚔𝚗𝚘𝚠 𝚝𝚑𝚊𝚝 𝚝𝚑𝚒𝚜 𝚎𝚗𝚝𝚒𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚙𝚞𝚜𝚑𝚎𝚜 𝚝𝚑𝚎 𝚍𝚎𝚏𝚒𝚗𝚒𝚜𝚝𝚒𝚘𝚗
-𝚘𝚏 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚊 𝚋𝚒𝚝... 𝚐𝚘𝚘𝚍!
+ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
