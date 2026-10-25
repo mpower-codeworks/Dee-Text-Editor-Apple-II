@@ -3,7 +3,7 @@
 <img src="images/deethomas.png" align="left" width="120" alt="Dee Thomas">
 
 <!--
-Dee is a text editor for Apple II in 364 bytes. Its total document size is
+Dee is a text editor for Apple II in 421 bytes. Its total document size is
 just one character. This is version 1.0 of Dee, a working text editor designed
 around a ridiculously small buffer with some minor size-coding going on
 as well. Smallest possible exe size wasn't really the main goal, but
@@ -16,7 +16,7 @@ into so many homes.
 
 Dee works in 40 column mode only.
 -->
-𝙳𝚎𝚎 𝚒𝚜 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚒𝚗 𝟹𝟼𝟺 𝚋𝚢𝚝𝚎𝚜. 𝙸𝚝𝚜 𝚝𝚘𝚝𝚊𝚕 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚜𝚒𝚣𝚎 𝚒𝚜
+𝙳𝚎𝚎 𝚒𝚜 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚒𝚗 𝟺𝟸𝟷 𝚋𝚢𝚝𝚎𝚜. 𝙸𝚝𝚜 𝚝𝚘𝚝𝚊𝚕 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚜𝚒𝚣𝚎 𝚒𝚜
 𝚓𝚞𝚜𝚝 𝚘𝚗𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟷.𝟶 𝚘𝚏 𝙳𝚎𝚎, 𝚊 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚍
 𝚊𝚛𝚘𝚞𝚗𝚍 𝚊 𝚛𝚒𝚍𝚒𝚌𝚞𝚕𝚘𝚞𝚜𝚕𝚢 𝚜𝚖𝚊𝚕𝚕 𝚋𝚞𝚏𝚏𝚎𝚛 𝚠𝚒𝚝𝚑 𝚜𝚘𝚖𝚎 𝚖𝚒𝚗𝚘𝚛 𝚜𝚒𝚣𝚎-𝚌𝚘𝚍𝚒𝚗𝚐 𝚐𝚘𝚒𝚗𝚐 𝚘𝚗
 𝚊𝚜 𝚠𝚎𝚕𝚕. 𝚂𝚖𝚊𝚕𝚕𝚎𝚜𝚝 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎 𝚎𝚡𝚎 𝚜𝚒𝚣𝚎 𝚠𝚊𝚜𝚗'𝚝 𝚛𝚎𝚊𝚕𝚕𝚢 𝚝𝚑𝚎 𝚖𝚊𝚒𝚗 𝚐𝚘𝚊𝚕, 𝚋𝚞𝚝
@@ -34,9 +34,9 @@ Dee works in 40 column mode only.
 <!--
 Dee features:
 
-- 364 byte exe
+- 421 byte exe
 - full build history in stages
-- a very small editable document buffer
+- a very small editable document buffer (1 byte)
 - output to screen
 - print to slot #1
 - file name B=blank, U=unnamed, D=default file name
@@ -61,9 +61,9 @@ D* = loaded file modified
 
 ### 𝖣𝖾𝖾 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌:
 
-- 𝟹𝟼𝟺 𝚋𝚢𝚝𝚎 𝚎𝚡𝚎
+- 𝟺𝟸𝟷 𝚋𝚢𝚝𝚎 𝚎𝚡𝚎
 - 𝚏𝚞𝚕𝚕 𝚋𝚞𝚒𝚕𝚍 𝚑𝚒𝚜𝚝𝚘𝚛𝚢 𝚒𝚗 𝚜𝚝𝚊𝚐𝚎𝚜
-- 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚋𝚞𝚏𝚏𝚎𝚛
+- 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚋𝚞𝚏𝚏𝚎𝚛 (𝚘𝚗𝚎 𝚋𝚢𝚝𝚎)
 - 𝚘𝚞𝚝𝚙𝚞𝚝 𝚝𝚘 𝚜𝚌𝚛𝚎𝚎𝚗
 - 𝚙𝚛𝚒𝚗𝚝 𝚝𝚘 𝚜𝚕𝚘𝚝 #𝟷
 - 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎 𝙱=𝚋𝚕𝚊𝚗𝚔, 𝚄=𝚞𝚗𝚗𝚊𝚖𝚎𝚍, 𝙳=𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
@@ -79,7 +79,7 @@ D* = loaded file modified
 
 ### 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗌𝖺𝗏𝖾/𝗅𝗈𝖺𝖽 𝗂𝗌 "𝖣".
 
-𝚂𝚝𝚊𝚝𝚞𝚜 𝙰𝚛𝚎𝚊:
+## 𝚂𝚝𝚊𝚝𝚞𝚜 𝙰𝚛𝚎𝚊:
 ```
 B. = blank file, unmodified
 U* = unnamed file, modified
