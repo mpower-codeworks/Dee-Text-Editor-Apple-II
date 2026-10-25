@@ -85,6 +85,15 @@ D* = loaded file modified
 - 𝙳. = 𝚜𝚊𝚟𝚎𝚍 𝚊𝚜 𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
 - 𝙳* = 𝚕𝚘𝚊𝚍𝚎𝚍 𝚏𝚒𝚕𝚎 𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 
+<img src="images/commands.png" width="160" alt="Commands">
+
+```
+SAVE   - CTRL-S - Saves file as default file D
+LOAD   - CTRL-L - Loads default file D
+NEW    - CTRL-N - New documents % reset editor
+DELETE - Erases character
+PRINT  - Prints to slot # 1
+```
 <img src="images/about.png" width="100" alt="About">
 
 <!--
