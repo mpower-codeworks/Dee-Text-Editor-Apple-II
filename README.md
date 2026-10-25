@@ -1,4 +1,4 @@
-<img src="images/banner.png" width="80" alt="Banner">
+<img src="images/banner.png" width="70" alt="Banner">
 
 <img src="images/deethomas.png" align="left" width="120" alt="Dee Thomas">
 
@@ -29,7 +29,7 @@ Dee works in 40 column mode only.
 
 𝙳𝚎𝚎 𝚠𝚘𝚛𝚔𝚜 𝚒𝚗 𝟺𝟶 𝚌𝚘𝚕𝚞𝚖𝚗 𝚖𝚘𝚍𝚎 𝚘𝚗𝚕𝚢.
 
-<img src="images/features.png" width="160" alt="Features">
+<img src="images/features.png" width="150" alt="Features">
 
 <!--
 Dee features:
@@ -90,13 +90,13 @@ D* = loaded file modified
 ```
 SAVE   - CTRL-S - Saves file as default file D
 LOAD   - CTRL-L - Loads default file D
-NEW    - CTRL-N - New documents % reset editor
+NEW    - CTRL-N - New documents and reset editor
 DELETE - Erases character
 PRINT  - CTRL-P - Prints to slot # 1
 QUIT   - CTRL-Q - Quits if file is unmodified
 KILL   - CTRL-K - Throw away changes and exit
 ```
-<img src="images/about.png" width="100" alt="About">
+<img src="images/about.png" width="90" alt="About">
 
 <!--
 Dee is written in CA65 and is intended to be a
