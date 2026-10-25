@@ -38,8 +38,8 @@ Dee features:
 - load file
 - new file
 - quit command
-- unsaved quit protect (upcoming)
-- throw away changes (upcoming)
+- unsaved quit protect
+- throw away changes
 - full build history in stages
 
 Default file for save/load is "D".
@@ -61,8 +61,8 @@ D* = loaded file modified
 - 𝚕𝚘𝚊𝚍 𝚏𝚒𝚕𝚎
 - 𝚗𝚎𝚠 𝚏𝚒𝚕𝚎
 - 𝚚𝚞𝚒𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍
-- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚚𝚞𝚒𝚝 𝚙𝚛𝚘𝚝𝚎𝚌𝚝 (𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐)
-- 𝚝𝚑𝚛𝚘𝚠 𝚊𝚠𝚊𝚢 𝚌𝚑𝚊𝚗𝚐𝚎𝚜 (𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐)
+- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚚𝚞𝚒𝚝 𝚙𝚛𝚘𝚝𝚎𝚌𝚝 
+- 𝚝𝚑𝚛𝚘𝚠 𝚊𝚠𝚊𝚢 𝚌𝚑𝚊𝚗𝚐𝚎𝚜
 - 𝚏𝚞𝚕𝚕 𝚋𝚞𝚒𝚕𝚍 𝚑𝚒𝚜𝚝𝚘𝚛𝚢 𝚒𝚗 𝚜𝚝𝚊𝚐𝚎𝚜
 
 ### 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗌𝖺𝗏𝖾/𝗅𝗈𝖺𝖽 𝗂𝗌 "𝖣".
@@ -77,14 +77,14 @@ D* = loaded file modified
 
 <!--
 Dee is written in CA65 and is intended to be a
-size-code demo of a text editor with the point
+very small but working text editor with the point
 being that it has all the "stuff" a text editor
 should have. Minimal implementations to be sure,
 but working nonetheless.
 -->
 
 𝙳𝚎𝚎 𝚒𝚜 𝚠𝚛𝚒𝚝𝚝𝚎𝚗 𝚒𝚗 𝙲𝙰𝟼𝟻 𝚊𝚗𝚍 𝚒𝚜 𝚒𝚗𝚝𝚎𝚗𝚍𝚎𝚍 𝚝𝚘 𝚋𝚎 𝚊
-𝚜𝚒𝚣𝚎-𝚌𝚘𝚍𝚎 𝚍𝚎𝚖𝚘 𝚘𝚏 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚙𝚘𝚒𝚗𝚝
+𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚋𝚞𝚝 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚙𝚘𝚒𝚗𝚝
 𝚋𝚎𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚒𝚝 𝚑𝚊𝚜 𝚊𝚕𝚕 𝚝𝚑𝚎 "𝚜𝚝𝚞𝚏𝚏" 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛
 𝚜𝚑𝚘𝚞𝚕𝚍 𝚑𝚊𝚟𝚎. 𝙼𝚒𝚗𝚒𝚖𝚊𝚕 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚋𝚎 𝚜𝚞𝚛𝚎,
 𝚋𝚞𝚝 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚗𝚘𝚗𝚎𝚝𝚑𝚎𝚕𝚎𝚜𝚜.
