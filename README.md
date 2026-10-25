@@ -92,7 +92,9 @@ SAVE   - CTRL-S - Saves file as default file D
 LOAD   - CTRL-L - Loads default file D
 NEW    - CTRL-N - New documents % reset editor
 DELETE - Erases character
-PRINT  - Prints to slot # 1
+PRINT  - CTRL-P - Prints to slot # 1
+QUIT   - CTRL-Q - Quits if file is unmodified
+KILL   - CTRL-K - Throw away changes and exit
 ```
 <img src="images/about.png" width="100" alt="About">
 
