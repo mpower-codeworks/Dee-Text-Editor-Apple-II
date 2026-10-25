@@ -30,17 +30,20 @@ into so many homes.
 <!--
 Dee features:
 
+- 364 byte exe
+- full build history in stages
 - a very small editable document buffer
 - output to screen
 - file name B=blank, U=unnamed, D=default file name
 - file status .=saved, *=modified
 - save file
 - load file
-- new file
+- new file resets the editor
 - quit command
 - unsaved quit protect
-- throw away changes
-- full build history in stages
+- unsaved load protect
+- unsaved new protect
+- throw away changes - kill
 
 Default file for save/load is "D".
 
@@ -53,17 +56,20 @@ D* = loaded file modified
 
 ### 𝖣𝖾𝖾 𝖿𝖾𝖺𝗍𝗎𝗋𝖾𝗌:
 
+- 𝟹𝟼𝟺 𝚋𝚢𝚝𝚎 𝚎𝚡𝚎
+- 𝚏𝚞𝚕𝚕 𝚋𝚞𝚒𝚕𝚍 𝚑𝚒𝚜𝚝𝚘𝚛𝚢 𝚒𝚗 𝚜𝚝𝚊𝚐𝚎𝚜
 - 𝚊 𝚟𝚎𝚛𝚢 𝚜𝚖𝚊𝚕𝚕 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚋𝚞𝚏𝚏𝚎𝚛
 - 𝚘𝚞𝚝𝚙𝚞𝚝 𝚝𝚘 𝚜𝚌𝚛𝚎𝚎𝚗
 - 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎 𝙱=𝚋𝚕𝚊𝚗𝚔, 𝚄=𝚞𝚗𝚗𝚊𝚖𝚎𝚍, 𝙳=𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
 - 𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 .=𝚜𝚊𝚟𝚎𝚍, *=𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 - 𝚜𝚊𝚟𝚎 𝚏𝚒𝚕𝚎
 - 𝚕𝚘𝚊𝚍 𝚏𝚒𝚕𝚎
-- 𝚗𝚎𝚠 𝚏𝚒𝚕𝚎
+- 𝚗𝚎𝚠 𝚏𝚒𝚕𝚎 𝚛𝚎𝚜𝚎𝚝𝚜 𝚝𝚑𝚎 𝚎𝚍𝚒𝚝𝚘𝚛
 - 𝚚𝚞𝚒𝚝 𝚌𝚘𝚖𝚖𝚊𝚗𝚍
-- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚚𝚞𝚒𝚝 𝚙𝚛𝚘𝚝𝚎𝚌𝚝 
-- 𝚝𝚑𝚛𝚘𝚠 𝚊𝚠𝚊𝚢 𝚌𝚑𝚊𝚗𝚐𝚎𝚜
-- 𝚏𝚞𝚕𝚕 𝚋𝚞𝚒𝚕𝚍 𝚑𝚒𝚜𝚝𝚘𝚛𝚢 𝚒𝚗 𝚜𝚝𝚊𝚐𝚎𝚜
+- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚚𝚞𝚒𝚝 𝚙𝚛𝚘𝚝𝚎𝚌𝚝
+- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚕𝚘𝚊𝚍 𝚙𝚛𝚘𝚝𝚎𝚌𝚝
+- 𝚞𝚗𝚜𝚊𝚟𝚎𝚍 𝚗𝚎𝚠 𝚙𝚛𝚘𝚝𝚎𝚌𝚝
+- 𝚝𝚑𝚛𝚘𝚠 𝚊𝚠𝚊𝚢 𝚌𝚑𝚊𝚗𝚐𝚎𝚜 - 𝚔𝚒𝚕𝚕
 
 ### 𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖿𝗂𝗅𝖾 𝖿𝗈𝗋 𝗌𝖺𝗏𝖾/𝗅𝗈𝖺𝖽 𝗂𝗌 "𝖣".
 
