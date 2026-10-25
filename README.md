@@ -112,3 +112,27 @@ up with.
 𝚋𝚞𝚝 𝚝𝚑𝚎𝚛𝚎 𝚠𝚎𝚛𝚎 𝚖𝚊𝚗𝚢! 𝙸'𝚖 𝚜𝚞𝚛𝚎 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚖𝚊𝚗𝚢 𝚠𝚊𝚢𝚜
 𝚝𝚘 𝚍𝚘 𝚝𝚑𝚒𝚜 𝚜𝚘𝚛𝚝 𝚘𝚏 𝚝𝚑𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚝𝚑𝚒𝚜 𝚒𝚜 𝚠𝚑𝚊𝚝 𝙸 𝚌𝚊𝚖𝚎
 𝚞𝚙 𝚠𝚒𝚝𝚑.
+
+<!--
+Even smaller....
+
+Are you interested in really small text editors?  Dee
+version 006 comes in at 75 bytes and has editable text
+and DELETE key works too. No save, load, new, etc...
+but it works!
+
+Yes, I know that this entire project pushes the definistion
+of a text editor a bit... good!
+
+mpower-codeworks
+-->
+
+## 𝖤𝗏𝖾𝗇 𝗌𝗆𝖺𝗅𝗅𝖾𝗋....
+
+𝙰𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚛𝚎𝚊𝚕𝚕𝚢 𝚜𝚖𝚊𝚕𝚕 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛𝚜?  𝙳𝚎𝚎
+𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟶𝟶𝟼 𝚌𝚘𝚖𝚎𝚜 𝚒𝚗 𝚊𝚝 𝟽𝟻 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 𝚑𝚊𝚜 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚝𝚎𝚡𝚝
+𝚊𝚗𝚍 𝙳𝙴𝙻𝙴𝚃𝙴 𝚔𝚎𝚢 𝚠𝚘𝚛𝚔𝚜 𝚝𝚘𝚘. 𝙽𝚘 𝚜𝚊𝚟𝚎, 𝚕𝚘𝚊𝚍, 𝚗𝚎𝚠, 𝚎𝚝𝚌...
+𝚋𝚞𝚝 𝚒𝚝 𝚠𝚘𝚛𝚔𝚜!
+
+𝚈𝚎𝚜, 𝙸 𝚔𝚗𝚘𝚠 𝚝𝚑𝚊𝚝 𝚝𝚑𝚒𝚜 𝚎𝚗𝚝𝚒𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚙𝚞𝚜𝚑𝚎𝚜 𝚝𝚑𝚎 𝚍𝚎𝚏𝚒𝚗𝚒𝚜𝚝𝚒𝚘𝚗
+𝚘𝚏 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚊 𝚋𝚒𝚝... 𝚐𝚘𝚘𝚍!
