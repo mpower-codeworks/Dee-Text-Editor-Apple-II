@@ -137,7 +137,7 @@ but it works!
 mpower-codeworks
 -->
 
-<img src="images/even smaller.png" width="170" alt="Even Samller">
+<img src="images/even smaller.png" width="200" alt="Even Samller">
 
 𝙰𝚛𝚎 𝚢𝚘𝚞 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚛𝚎𝚊𝚕𝚕𝚢 𝚜𝚖𝚊𝚕𝚕 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛𝚜?  𝙳𝚎𝚎
 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟶𝟶𝟼 𝚌𝚘𝚖𝚎𝚜 𝚒𝚗 𝚊𝚝 𝟽𝟻 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 𝚑𝚊𝚜 𝚎𝚍𝚒𝚝𝚊𝚋𝚕𝚎 𝚝𝚎𝚡𝚝
