@@ -155,7 +155,7 @@ shortcut to Notepad!
 -->
 <img src="images/alsotry.png" width="120" alt="Also Try">
 
-𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 [DTE]([google.com](https://github.com/mpower-codeworks/Daves-Tiny-Editor),
+𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 [DTE](https://github.com/mpower-codeworks/Daves-Tiny-Editor),
 𝚊 𝚏𝚞𝚕𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚒𝚗 𝟷𝟶𝟸𝟺 𝚋𝚢𝚝𝚎𝚜. 
 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚘 𝚞𝚜𝚎 𝚊𝚜 𝚊 𝚍𝚊𝚒𝚕𝚢 𝚍𝚛𝚒𝚟𝚎𝚛 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚊
 𝚜𝚑𝚘𝚛𝚝𝚌𝚞𝚝 𝚝𝚘 𝙽𝚘𝚝𝚎𝚙𝚊𝚍!
