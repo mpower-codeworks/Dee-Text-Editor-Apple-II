@@ -98,7 +98,8 @@ PRINT  - CTRL-P - Prints to slot # 1
 QUIT   - CTRL-Q - Quits if file is unmodified
 KILL   - CTRL-K - Throw away changes and exit
 ```
-## About
+
+<img src="images/map.png" width="155" alt="Memory Map">
 
 ```
 $2000–$21A4: CODE
