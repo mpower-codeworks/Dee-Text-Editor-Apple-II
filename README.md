@@ -152,6 +152,11 @@ Also Try
 Check out DTE, a fully working Windows text editor in 1024 bytes. 
 Functional enough to use as a daily driver and lighter than a
 shortcut to Notepad!
+
+Also on this site are Sub-K, a Windows HTTP web server in 861 bytes
+and E. a telnet server in 483 bytes.
+https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server
+https://github.com/mpower-codeworks/E/tree/main
 -->
 <img src="images/alsotry.png" width="120" alt="Also Try">
 
@@ -159,5 +164,9 @@ shortcut to Notepad!
 𝚊 𝚏𝚞𝚕𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚒𝚗 𝟷𝟶𝟸𝟺 𝚋𝚢𝚝𝚎𝚜. 
 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚘 𝚞𝚜𝚎 𝚊𝚜 𝚊 𝚍𝚊𝚒𝚕𝚢 𝚍𝚛𝚒𝚟𝚎𝚛 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚊
 𝚜𝚑𝚘𝚛𝚝𝚌𝚞𝚝 𝚝𝚘 𝙽𝚘𝚝𝚎𝚙𝚊𝚍!
+
+𝙰𝚕𝚜𝚘 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚜𝚒𝚝𝚎 𝚊𝚛𝚎 [𝚂𝚞𝚋-𝙺](https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server),
+𝚊 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙷𝚃𝚃𝙿 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟾𝟼𝟷 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 [𝙴](https://github.com/mpower-codeworks/E/tree/main),
+𝚊 𝚝𝚎𝚕𝚗𝚎𝚝 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟺𝟾𝟹 𝚋𝚢𝚝𝚎𝚜.
 
 ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
