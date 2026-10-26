@@ -206,3 +206,5 @@ version. Windows 3.0 version is upcoming.
 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟹.𝟶 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚒𝚜 𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐.
 
 ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
+
+<img src="images/buildhist.jpg" width="420" alt="Build History">
