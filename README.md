@@ -98,6 +98,27 @@ PRINT  - CTRL-P - Prints to slot # 1
 QUIT   - CTRL-Q - Quits if file is unmodified
 KILL   - CTRL-K - Throw away changes and exit
 ```
+## About
+
+```
+Memory Map:
+
+$2000–$21A4
+CODE 421 bytes
+
+$21A5–$21FF
+Unused gap 91 bytes
+
+$2200–$25FF
+ProDOS I/O buffer
+(required)
+1,024 bytes
+
+$2600–$2601
+Document buffer
+2 bytes
+```
+
 <img src="images/about.png" width="90" alt="About">
 
 <!--
