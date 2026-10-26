@@ -99,7 +99,7 @@ QUIT   - CTRL-Q - Quits if file is unmodified
 KILL   - CTRL-K - Throw away changes and exit
 ```
 
-<img src="images/map.png" width="155" alt="Memory Map">
+<img src="images/map.png" width="165" alt="Memory Map">
 
 ```
 $2000–$21A4: CODE
