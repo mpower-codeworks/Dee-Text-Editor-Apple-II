@@ -46,7 +46,7 @@ Dee features:
 - output to screen
 - print to slot #1
 - file name B=blank, U=unnamed, D=default file name
-- file status .=saved, *=modified
+- file status .=unmodified, *=modified
 - save file
 - load file
 - new file resets the editor
@@ -73,7 +73,7 @@ D* = loaded file modified
 - 𝚘𝚞𝚝𝚙𝚞𝚝 𝚝𝚘 𝚜𝚌𝚛𝚎𝚎𝚗
 - 𝚙𝚛𝚒𝚗𝚝 𝚝𝚘 𝚜𝚕𝚘𝚝 #𝟷
 - 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎 𝙱=𝚋𝚕𝚊𝚗𝚔, 𝚄=𝚞𝚗𝚗𝚊𝚖𝚎𝚍, 𝙳=𝚍𝚎𝚏𝚊𝚞𝚕𝚝 𝚏𝚒𝚕𝚎 𝚗𝚊𝚖𝚎
-- 𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 .=𝚜𝚊𝚟𝚎𝚍, *=𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
+- 𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚞𝚜 .=𝚞𝚗𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍, *=𝚖𝚘𝚍𝚒𝚏𝚒𝚎𝚍
 - 𝚜𝚊𝚟𝚎 𝚏𝚒𝚕𝚎
 - 𝚕𝚘𝚊𝚍 𝚏𝚒𝚕𝚎
 - 𝚗𝚎𝚠 𝚏𝚒𝚕𝚎 𝚛𝚎𝚜𝚎𝚝𝚜 𝚝𝚑𝚎 𝚎𝚍𝚒𝚝𝚘𝚛
