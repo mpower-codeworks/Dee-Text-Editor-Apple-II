@@ -157,6 +157,11 @@ Also on this site are Sub-K, a Windows HTTP web server in 861 bytes
 and E. a telnet server in 483 bytes.
 https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server
 https://github.com/mpower-codeworks/E/tree/main
+
+Are you still reading? You must like words. Check out Wordell.
+It starts out as an Apple II Wordle game and is then worked into
+an MS-DOS version, a Windows 1.0 Version, and a Windows 2.0
+version. Windows 3.0 version is upcoming.
 -->
 <img src="images/alsotry.png" width="120" alt="Also Try">
 
@@ -168,5 +173,13 @@ https://github.com/mpower-codeworks/E/tree/main
 𝙰𝚕𝚜𝚘 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚜𝚒𝚝𝚎 𝚊𝚛𝚎 [Sub-K](https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server)
 𝚊 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙷𝚃𝚃𝙿 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟾𝟼𝟷 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 [E](https://github.com/mpower-codeworks/E/tree/main)
 𝚊 𝚝𝚎𝚕𝚗𝚎𝚝 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟺𝟾𝟹 𝚋𝚢𝚝𝚎𝚜.
+
+𝙰𝚛𝚎 𝚢𝚘𝚞 𝚜𝚝𝚒𝚕𝚕 𝚛𝚎𝚊𝚍𝚒𝚗𝚐? 𝚈𝚘𝚞 𝚖𝚞𝚜𝚝 𝚕𝚒𝚔𝚎 𝚠𝚘𝚛𝚍𝚜.
+𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 [Wordell](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II).
+𝙸𝚝 𝚜𝚝𝚊𝚛𝚝𝚜 𝚘𝚞𝚝 𝚊𝚜 𝚊𝚗 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚆𝚘𝚛𝚍𝚕𝚎 𝚐𝚊𝚖𝚎 𝚊𝚗𝚍 𝚒𝚜 𝚝𝚑𝚎𝚗 𝚠𝚘𝚛𝚔𝚎𝚍 𝚒𝚗𝚝𝚘
+𝚊𝚗 [MS-DOS Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-MS-DOS-3.3),
+𝚊 [Windows 1.0 Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0),
+𝚊𝚗𝚍 𝚊 [Windows 2.0 Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-2.0).
+𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟹.𝟶 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚒𝚜 𝚞𝚙𝚌𝚘𝚖𝚒𝚗𝚐.
 
 ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
