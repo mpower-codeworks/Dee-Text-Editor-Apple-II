@@ -146,4 +146,15 @@ mpower-codeworks
 𝚊𝚗𝚍 𝙳𝙴𝙻𝙴𝚃𝙴 𝚔𝚎𝚢 𝚠𝚘𝚛𝚔𝚜 𝚝𝚘𝚘. 𝙽𝚘 𝚜𝚊𝚟𝚎, 𝚕𝚘𝚊𝚍, 𝚗𝚎𝚠, 𝚎𝚝𝚌...
 𝚋𝚞𝚝 𝚒𝚝 𝚠𝚘𝚛𝚔𝚜!
 
+<!--
+Also Try
+
+Check out DTE, a fully working Windows text editor in 1024 bytes. 
+Functional enough to use as a daily driver and lighter than a
+shortcut to Notepad!
+
+-->
+
+
+
 ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
