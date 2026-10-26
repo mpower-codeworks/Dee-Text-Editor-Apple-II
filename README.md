@@ -165,8 +165,8 @@ https://github.com/mpower-codeworks/E/tree/main
 𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚎𝚗𝚘𝚞𝚐𝚑 𝚝𝚘 𝚞𝚜𝚎 𝚊𝚜 𝚊 𝚍𝚊𝚒𝚕𝚢 𝚍𝚛𝚒𝚟𝚎𝚛 𝚊𝚗𝚍 𝚕𝚒𝚐𝚑𝚝𝚎𝚛 𝚝𝚑𝚊𝚗 𝚊
 𝚜𝚑𝚘𝚛𝚝𝚌𝚞𝚝 𝚝𝚘 𝙽𝚘𝚝𝚎𝚙𝚊𝚍!
 
-𝙰𝚕𝚜𝚘 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚜𝚒𝚝𝚎 𝚊𝚛𝚎 [Sub-K](https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server),
-𝚊 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙷𝚃𝚃𝙿 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟾𝟼𝟷 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 [E](https://github.com/mpower-codeworks/E/tree/main),
+𝙰𝚕𝚜𝚘 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚜𝚒𝚝𝚎 𝚊𝚛𝚎 [Sub-K](https://github.com/mpower-codeworks/Sub-K-Very-Small-Web-Server)
+𝚊 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙷𝚃𝚃𝙿 𝚠𝚎𝚋 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟾𝟼𝟷 𝚋𝚢𝚝𝚎𝚜 𝚊𝚗𝚍 [E](https://github.com/mpower-codeworks/E/tree/main)
 𝚊 𝚝𝚎𝚕𝚗𝚎𝚝 𝚜𝚎𝚛𝚟𝚎𝚛 𝚒𝚗 𝟺𝟾𝟹 𝚋𝚢𝚝𝚎𝚜.
 
 ɱ℘øωɛɍ-ƈøɖɛωøɍƙʂ
