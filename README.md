@@ -17,7 +17,7 @@ into so many homes.
 Dee works in 40 column mode only.
 
 Contributions are welcome, maybe Dee 2.0
-could start to become a real gown-up editor!
+could start to become a real grown-up editor!
 -->
 𝙳𝚎𝚎 𝚒𝚜 𝚊 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚏𝚘𝚛 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚒𝚗 𝟺𝟸𝟷 𝚋𝚢𝚝𝚎𝚜. 𝙸𝚝𝚜 𝚝𝚘𝚝𝚊𝚕 𝚍𝚘𝚌𝚞𝚖𝚎𝚗𝚝 𝚜𝚒𝚣𝚎 𝚒𝚜
 𝚓𝚞𝚜𝚝 𝚘𝚗𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝟷.𝟶 𝚘𝚏 𝙳𝚎𝚎, 𝚊 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚝𝚎𝚡𝚝 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚍
@@ -33,7 +33,7 @@ could start to become a real gown-up editor!
 𝙳𝚎𝚎 𝚠𝚘𝚛𝚔𝚜 𝚒𝚗 𝟺𝟶 𝚌𝚘𝚕𝚞𝚖𝚗 𝚖𝚘𝚍𝚎 𝚘𝚗𝚕𝚢.
 
 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜 𝚊𝚛𝚎 𝚠𝚎𝚕𝚌𝚘𝚖𝚎, 𝚖𝚊𝚢𝚋𝚎 𝙳𝚎𝚎 𝟸.𝟶
-𝚌𝚘𝚞𝚕𝚍 𝚜𝚝𝚊𝚛𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚛𝚎𝚊𝚕 𝚐𝚘𝚠𝚗-𝚞𝚙 𝚎𝚍𝚒𝚝𝚘𝚛!
+𝚌𝚘𝚞𝚕𝚍 𝚜𝚝𝚊𝚛𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚛𝚎𝚊𝚕 𝚐𝚛𝚘𝚠𝚗-𝚞𝚙 𝚎𝚍𝚒𝚝𝚘𝚛!
 
 <img src="images/features.png" width="150" alt="Features">
 
