@@ -176,7 +176,7 @@ version. Windows 3.0 version is upcoming.
 
 𝙰𝚛𝚎 𝚢𝚘𝚞 𝚜𝚝𝚒𝚕𝚕 𝚛𝚎𝚊𝚍𝚒𝚗𝚐? 𝚈𝚘𝚞 𝚖𝚞𝚜𝚝 𝚕𝚒𝚔𝚎 𝚠𝚘𝚛𝚍𝚜.
 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 [Wordell](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Apple-II).
-𝙸𝚝 𝚜𝚝𝚊𝚛𝚝𝚜 𝚘𝚞𝚝 𝚊𝚜 𝚊𝚗 𝙰𝚙𝚙𝚕𝚎 𝙸𝙸 𝚆𝚘𝚛𝚍𝚕𝚎 𝚐𝚊𝚖𝚎 𝚊𝚗𝚍 𝚒𝚜 𝚝𝚑𝚎𝚗 𝚠𝚘𝚛𝚔𝚎𝚍 𝚒𝚗𝚝𝚘
+𝙸𝚝 𝚜𝚝𝚊𝚛𝚝𝚜 𝚘𝚞𝚝 𝚊𝚜 𝚊𝚗 𝖠𝗉𝗉𝗅𝖾 𝖨𝖨 𝖶𝗈𝗋𝖽𝗅𝖾 𝖦𝖺𝗆𝖾 𝚊𝚗𝚍 𝚒𝚜 𝚝𝚑𝚎𝚗 𝚠𝚘𝚛𝚔𝚎𝚍 𝚒𝚗𝚝𝚘
 𝚊𝚗 [MS-DOS Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-MS-DOS-3.3),
 𝚊 [Windows 1.0 Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-1.0),
 𝚊𝚗𝚍 𝚊 [Windows 2.0 Version](https://github.com/mpower-codeworks/WORDELL-Wordle-Clone-for-Windows-2.0).
