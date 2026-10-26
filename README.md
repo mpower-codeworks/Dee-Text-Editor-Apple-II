@@ -101,21 +101,16 @@ KILL   - CTRL-K - Throw away changes and exit
 ## About
 
 ```
-Memory Map:
+$2000–$21A4: CODE
+421 bytes
 
-$2000–$21A4
-CODE 421 bytes
+$21A5–$21FF: Unused gap
+91 bytes
 
-$21A5–$21FF
-Unused gap 91 bytes
-
-$2200–$25FF
-ProDOS I/O buffer
-(required)
+$2200–$25FF: ProDOS I/O buffer (required)
 1,024 bytes
 
-$2600–$2601
-Document buffer
+$2600–$2601: Document buffer
 2 bytes
 ```
 
